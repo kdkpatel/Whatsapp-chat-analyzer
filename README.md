@@ -1,7 +1,7 @@
 # Whatsapp-chat-analyzer
 The code implements a WhatsApp Chat Analyzer using Streamlit, pandas, matplotlib, seaborn, urlextract, and wordcloud. It takes a WhatsApp chat export file, processes the data, and presents insights through a user-friendly interface. Visualizations include statistics, timelines, and charts related to message content, user activity, and word usage.  
 
-# brief description of the key components and functionalities of the project:
+# Brief description of the key components and functionalities of the project:
 
 # 1. Streamlit Interface Setup:
 - The main script is app.py, which uses the Streamlit library to create a user-friendly interface.
